@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Projekter\SimpleTemplatePattern\SimpleTemplatePattern\bin\Debug\SimpleTemplatePattern.exe.config
+C:\Users\Martin\Documents\Projekter\SimpleTemplatePattern\SimpleTemplatePattern\bin\Debug\SimpleTemplatePattern.exe
+C:\Users\Martin\Documents\Projekter\SimpleTemplatePattern\SimpleTemplatePattern\bin\Debug\SimpleTemplatePattern.pdb
+C:\Users\Martin\Documents\Projekter\SimpleTemplatePattern\SimpleTemplatePattern\obj\Debug\SimpleTemplatePattern.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Projekter\SimpleTemplatePattern\SimpleTemplatePattern\obj\Debug\SimpleTemplatePattern.exe
+C:\Users\Martin\Documents\Projekter\SimpleTemplatePattern\SimpleTemplatePattern\obj\Debug\SimpleTemplatePattern.pdb
